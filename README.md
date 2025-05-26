@@ -22,4 +22,5 @@ Creating my CV was an important step in preparing for my professional journey, a
 
 ## CV Submission
 https://github.com/DeanJ29/CV.git
-For personal privacy conserns my CV has been made private. If you have any interest of knowing more about me feel free to contact me via emaail: DeanSchool29@gmail.com
+
+For personal privacy conserns my CV has been made private. If you have any interest of knowing more about me feel free to contact me via email: DeanSchool29@gmail.com
