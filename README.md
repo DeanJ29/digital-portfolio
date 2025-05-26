@@ -21,4 +21,5 @@ Completing this personality assessment was an eye-opening experience that allowe
 Creating my CV was an important step in preparing for my professional journey, allowing me to reflect on my skills, experiences, and career aspirations. This assessment challenged me to structure my CV effectively, ensuring that it clearly communicated my qualifications and strengths. As I worked through the process, I focused on organizing my work experience, education, and skills in a way that would make a strong impression on potential employers. While I encountered some difficulties, I remained committed to refining my CV to meet industry standards. Completing this assessment has given me valuable insights into professional document preparation, reinforcing my ability to present myself confidently in the job market. Achieving a solid score reassures me that I am on the right track, and it motivates me to continue improving my career readiness.
 
 ## CV Submission
+https://github.com/DeanJ29/CV.git
 For personal privacy conserns my CV has been made private. If you have any interest of knowing more about me feel free to contact me via emaail: DeanSchool29@gmail.com
