@@ -23,4 +23,31 @@ Creating my CV was an important step in preparing for my professional journey, a
 ## CV Submission
 https://github.com/DeanJ29/CV.git
 
+## Business Communication
+![Business Communication](https://github.com/user-attachments/assets/1f837594-4dd2-4dd8-84b4-6f00dd98d36c)
+
+Throughout my Business Communication module, I completed a project presentation assessment that tested my ability to apply professional communication principles effectively. The task required me to demonstrate the proper use of tone, etiquette, and formal language in various workplace scenarios. To prepare, I reviewed key concepts from the course and practiced constructing formal emails and presentations that reflected clarity and professionalism. I managed my time efficiently, ensuring each response was thoughtful and aligned with business communication standards. As a result of these efforts, I achieved an 80% score, which reinforced my confidence in expressing ideas clearly and professionally. This experience strengthened my understanding of effective communication and its importance in both academic and professional settings, motivating me to continue refining these essential skills.
+
+## Interview Skills
+![Interview Skills](https://github.com/user-attachments/assets/45ed97d8-be08-46e5-90c7-aba6ff9fb7c0)
+
+Completing the Interview Skills assessment allowed me to strengthen my understanding of how to present myself confidently and effectively in professional interviews. The situation required me to apply key concepts such as the CAR (Context, Action, Result) method, researching companies beforehand, and formulating strong responses to common interview questions. My task was to demonstrate clear communication, professionalism, and self-awareness throughout the process. I took the initiative to review different interviewing strategies, practiced structuring my answers, and focused on articulating my strengths and weaknesses in a balanced way. As a result, I achieved a perfect score of 100%, reflecting my ability to apply interview principles successfully. This experience not only enhanced my readiness for future job opportunities but also built my confidence in handling real-world interview scenarios.
+
+## Mock Interview Video
+![Mock Interview Video](https://github.com/user-attachments/assets/4888b3b8-b9d0-43bb-b8d2-528d0ac2a1d3)
+
+Recording my Mock Interview Video was a valuable opportunity to apply the interview techniques I had learned in a practical and engaging way. The situation required me to simulate a real interview environment, showcasing my ability to communicate clearly, maintain professionalism, and respond confidently to challenging questions. My task was to demonstrate how I could use verbal and non-verbal communication effectively to leave a positive impression. To prepare, I practiced my responses using the CAR (Context, Action, Result) structure, refined my body language, and ensured that my tone and presentation style were appropriate for a professional setting. As a result, I successfully completed the mock interview and gained deeper insight into how to present myself effectively during actual interviews. This experience enhanced my confidence, self-awareness, and readiness for future career opportunities.
+
+## Professional Networking
+![Professional Networking](https://github.com/user-attachments/assets/fb87107e-2e6d-454d-a7f7-33bd90ee60fd)
+
+Completing the professional networking assessment was a valuable step in my career development, as it allowed me to reflect on my ability to build and sustain meaningful professional relationships. The task required me to demonstrate both theoretical knowledge and practical application, so I carefully analyzed each question, applied networking principles to real-world scenarios, and managed my time effectively to ensure accuracy. Through this process, I reinforced my understanding of common mistakes to avoid, the importance of relationship quality, and strategies for effective communication. The result was a strong performance across all sections, which not only boosted my confidence but also confirmed that I am on the right track in developing the networking skills essential for advancing my career.
+
+
+## Workplace Etiquette
+![Professional Networking](https://github.com/user-attachments/assets/16e494a0-ee1d-424e-bd2d-5ab8bf1ca8d7)
+
+
+Completing the workplace etiquette module was an important step in strengthening my professional readiness, as it placed me in scenarios that tested how I would respond to common challenges in the workplace. The task required me to apply principles of respect, communication, and professionalism to practical situations, ensuring that I could demonstrate sound judgment under pressure. I approached each question thoughtfully, drawing on both theoretical knowledge and real-world awareness to select the most appropriate responses. As a result, I achieved a solid overall score, which not only highlighted my ability to navigate workplace expectations effectively but also reinforced my confidence in handling professional interactions with maturity and respect.
+
 For personal privacy conserns my CV has been made private. If you have any interest of knowing more about me feel free to contact me via email: DeanSchool29@gmail.com
